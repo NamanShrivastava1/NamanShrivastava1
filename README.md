@@ -1,5 +1,15 @@
 # 💫 About Me:
-👋 About Me<br><br>🔭 I’m currently working on<br>Building full-stack web applications using MERN, focusing on real-world products like QR-based restaurant menus, booking systems, and dashboards.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, startup ideas, and practical products where I can contribute frontend (React) or backend (Node/Express).<br><br>🤝 I’m looking for help with<br>System design, scalability patterns, and writing cleaner, production-ready backend code.<br><br>🌱 I’m currently learning<br>Advanced React patterns, backend architecture, Redis, and how to design scalable systems.<br><br>💬 Ask me about<br>React, MERN stack, REST APIs, authentication, project structuring, and turning ideas into working products.<br><br>⚡ Fun fact<br>I learn best by building — tutorials don’t stick unless I ship something 🚀
+I don’t start projects by choosing a framework.
+I start by asking what can break.
+
+Most of my time goes into building full-stack products that feel simple on the surface but are solid underneath — clean APIs, predictable state, and backend logic that survives real users.
+
+I work mainly with the MERN stack and enjoy the messy middle of development:
+designing data flows, structuring projects, handling auth, and fixing things that looked “done” yesterday.
+
+Right now, I’m sharpening my understanding of scalable backend architecture, Redis, and writing code that I won’t hate revisiting after six months.
+
+If you like building useful things instead of perfect demos, we’ll get along.
 
 
 ## 🌐 Socials:
