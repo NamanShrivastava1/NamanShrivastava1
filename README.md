@@ -1,15 +1,13 @@
 # 💫 About Me:
-I don’t start projects by choosing a framework.
-I start by asking what can break.
+I’ve always understood things better by building them instead of just reading about them. Writing code, watching it fail, fixing it, and then improving it again has been my most consistent way of learning. Over time, this habit pushed me toward full-stack development, where I enjoy working across both frontend and backend rather than staying confined to one side.
 
-Most of my time goes into building full-stack products that feel simple on the surface but are solid underneath — clean APIs, predictable state, and backend logic that survives real users.
+Most of my work revolves around building real-world web applications using the MERN stack. I like projects that have practical value things like QR-based restaurant menus, booking systems, dashboards, and platforms that need to function reliably every day. These kinds of applications naturally teach you about structure, data flow, authentication, and the importance of writing code that stays readable and maintainable as features grow.
 
-I work mainly with the MERN stack and enjoy the messy middle of development:
-designing data flows, structuring projects, handling auth, and fixing things that looked “done” yesterday.
+Lately, I’ve been spending more time thinking about what happens after an application “works.” I’m learning how backend systems scale, how to design APIs that don’t become painful to extend, and how tools like Redis fit into performance and reliability problems. I care a lot about writing backend code that feels intentional rather than rushed, even when requirements change.
 
-Right now, I’m sharpening my understanding of scalable backend architecture, Redis, and writing code that I won’t hate revisiting after six months.
+I enjoy collaborating with people who like building and iterating, especially in open-source or startup-style environments where learning happens through real usage. I’m comfortable asking questions, refactoring my own work, and revisiting earlier decisions when better solutions appear.
 
-If you like building useful things instead of perfect demos, we’ll get along.
+Tutorials are useful, but they only take me so far. The real lessons usually come when something breaks unexpectedly or behaves differently under real users. That process of debugging, understanding, and rebuilding is what keeps me curious and improving.
 
 
 ## 🌐 Socials:
