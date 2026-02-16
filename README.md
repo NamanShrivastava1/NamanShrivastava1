@@ -1,14 +1,18 @@
-# 💫 About Me:
-I’ve always understood things better by building them instead of just reading about them. Writing code, watching it fail, fixing it, and then improving it again has been my most consistent way of learning. Over time, this habit pushed me toward full-stack development, where I enjoy working across both frontend and backend rather than staying confined to one side.
+# 🔥 About Me:
 
-Most of my work revolves around building real-world web applications using the MERN stack. I like projects that have practical value things like QR-based restaurant menus, booking systems, dashboards, and platforms that need to function reliably every day. These kinds of applications naturally teach you about structure, data flow, authentication, and the importance of writing code that stays readable and maintainable as features grow.
+Hey there! I'm Naman Shrivastava, a passionate Full Stack Developer who loves building scalable and real-world web applications.
 
-Lately, I’ve been spending more time thinking about what happens after an application “works.” I’m learning how backend systems scale, how to design APIs that don’t become painful to extend, and how tools like Redis fit into performance and reliability problems. I care a lot about writing backend code that feels intentional rather than rushed, even when requirements change.
+🎓 Currently pursuing B-Tech from Technocrats Institute of Technology, Bhopal.
 
-I enjoy collaborating with people who like building and iterating, especially in open-source or startup-style environments where learning happens through real usage. I’m comfortable asking questions, refactoring my own work, and revisiting earlier decisions when better solutions appear.
+💻 Passionate MERN Stack Developer.
 
-Tutorials are useful, but they only take me so far. The real lessons usually come when something breaks unexpectedly or behaves differently under real users. That process of debugging, understanding, and rebuilding is what keeps me curious and improving.
+🧭 Comfortable with MongoDB Compass & Atlas for handling modern NoSQL workflows.
 
+⚡ Skilled in JavaScript, React.js, Node.js, Express.js, Tailwind CSS, CSS.
+
+🚀 Focused on building scalable backend systems and real-world applications.
+
+📂 Check out my projects in my [![repositories](https://github.com/NamanShrivastava1?tab=repositories)]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nnammaan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-shrivastava1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Naman_Naman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namanshrivastava.connect@gmail.com) 
